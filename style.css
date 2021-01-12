@@ -1,0 +1,31 @@
+.panda-carousel {
+  background-color: #fceae8;
+  margin: 8% auto;
+}
+
+ .btn{ 
+  background-color: rgba(255, 19, 110, 0.89);
+  padding: 2% 5%;
+  border-radius: 10%;
+  color: white;
+  font-weight: 400;
+}
+
+.panda-item > img {
+  width: 30%;
+  height: 100%;
+}
+
+.panda-card , .card-footer{
+  border: 0;
+}
+
+.panda-form {
+  background-color: #fceae8;
+  height: 20rem;
+  
+}
+
+.panda-form > h6 {
+  color:rgba(85, 83, 84, 0.89);
+}
